@@ -106,6 +106,8 @@
     text-decoration: none;
     max-width: 225px;
     display: block;
+    margin-left: 125px;
+    cursor: default;
 }
 
 
