@@ -106,7 +106,6 @@
     text-decoration: none;
     max-width: 225px;
     display: block;
-    margin-left: 125px;
     cursor: default;
 }
 
@@ -255,6 +254,8 @@
 
     #email-container a{
         display: block;
+        margin-right: auto;
+        margin-left: auto;
     }
 
 
